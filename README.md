@@ -20,8 +20,7 @@ Hay kenalin nama saya Elisabeth banjarnahor disini saya akan menjelaslan cara me
 ## flowchart code class ##
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/9e3da96ddb4132291e59a756a31566070e488e58/flowchart.jpg)
 
-### codingan class mahasiswa ###
-![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/d9ae6e6efcf697aebb0c9cf8ca19ae490d556167/393561224-bb33f7eb-67fa-45f7-89b3-d11394820d07.png)
+
 
 penggunaan class mahasiswa
 
