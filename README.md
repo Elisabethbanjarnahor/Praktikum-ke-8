@@ -26,7 +26,7 @@ penggunaan class mahasiswa
 
 1 **pertama**
 __init__: Ini adalah fungsi khusus yang dijalankan saat kita membuat objek baru. Fungsi ini digunakan untuk menginisialisasi (memberi nilai awal) pada atribut-atribut objek.
-
+![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/70b13b0773a208e75a42d698cc4a51511f462dd4/393561224-bb33f7eb-67fa-45f7-89b3-d11394820d07.png)
 2 **kedua**
 tambah_data: Fungsi ini digunakan untuk menambahkan data mahasiswa baru. Ia akan meminta input dari pengguna (nama, NIM, nilai) dan kemudian menyimpan data tersebut ke dalam daftar mahasiswa.
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/28251d09560fbd69b43fd304ea36b917503a5b66/393561751-d3ff80bd-b503-49ca-a7a9-e3b73ef68e10.png)
