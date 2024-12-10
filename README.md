@@ -50,7 +50,10 @@ ubah_data: Fungsi ini akan mengubah data mahasiswa berdasarkan NIM yang diberika
 
 6 **cari**
 Fungsi mencari dan menampilkan data mahasiswa berdasarka NIM
+![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/4494ba6002916bd00a637f864fbe88c4e1c5a064/393561829-5cef06d8-9e9e-4023-b1d9-caa9e7770a3f.png)
 
+
+7 **menu utama**
 
 Bagian Utama Program
 data_mahasiswa = Mahasiswa(...): Di sini kita membuat objek data_mahasiswa dari kelas Mahasiswa.
