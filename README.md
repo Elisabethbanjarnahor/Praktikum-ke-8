@@ -36,7 +36,7 @@ tampilkan_data: Fungsi ini akan menampilkan semua data mahasiswa yang sudah ters
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/1b7ff3491b22b521a0a900acfee8cf951f61267b/393561563-ea3fb839-cf15-437c-aaf3-87df4667d21e.png)
 4 **keempat**
 hapus_data: Fungsi ini akan menghapus data mahasiswa berdasarkan NIM yang diberikan.
-
+![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/5a5b7dbba05c526782b2563f0b9aef790d24c025/393561821-5625562f-c942-4655-afa8-820ea4d2f0e1.png)
 5 ** kelima**
 ubah_data: Fungsi ini akan mengubah data mahasiswa berdasarkan NIM yang diberikan. Pengguna bisa memilih data mana yang ingin diubah (nilai tugas, UTS, atau UAS).
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/f66b6b6e29ba0d9517142533062485d84f8cefa2/393561766-cde4e49a-bed6-4530-9ccf-8d8015f6b36c.png)
