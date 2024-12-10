@@ -55,6 +55,11 @@ Fungsi mencari dan menampilkan data mahasiswa berdasarka NIM
 
 7 **menu utama**
 
+
+
+8 **hasil** 
+![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/dd1130b74bf558242fd9a3d462684637cb326cc0/393561907-31f09554-180c-4b53-8e54-830c5e996615.png)
+
 Bagian Utama Program
 data_mahasiswa = Mahasiswa(...): Di sini kita membuat objek data_mahasiswa dari kelas Mahasiswa.
 data_mahasiswa.daftar_mahasiswa = []: Kita membuat list kosong untuk menyimpan data mahasiswa.
