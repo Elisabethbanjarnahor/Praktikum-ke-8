@@ -39,7 +39,7 @@ hapus_data: Fungsi ini akan menghapus data mahasiswa berdasarkan NIM yang diberi
 
 5 ** kelima**
 ubah_data: Fungsi ini akan mengubah data mahasiswa berdasarkan NIM yang diberikan. Pengguna bisa memilih data mana yang ingin diubah (nilai tugas, UTS, atau UAS).
-
+![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/f66b6b6e29ba0d9517142533062485d84f8cefa2/393561766-cde4e49a-bed6-4530-9ccf-8d8015f6b36c.png)
 Bagian Utama Program
 
 data_mahasiswa = Mahasiswa(...): Di sini kita membuat objek data_mahasiswa dari kelas Mahasiswa.
