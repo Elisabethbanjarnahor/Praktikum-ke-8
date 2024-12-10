@@ -59,6 +59,7 @@ Fungsi mencari dan menampilkan data mahasiswa berdasarka NIM
 
 8 **hasil** 
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/dd1130b74bf558242fd9a3d462684637cb326cc0/393561907-31f09554-180c-4b53-8e54-830c5e996615.png)
+![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/ab58b0943184ee1f45aec80b46c87917dbbd32f7/393561907-31f09554-180c-4b53-8e54-830c5e996615.png)
 
 Bagian Utama Program
 data_mahasiswa = Mahasiswa(...): Di sini kita membuat objek data_mahasiswa dari kelas Mahasiswa.
