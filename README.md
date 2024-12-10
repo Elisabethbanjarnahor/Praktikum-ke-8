@@ -30,7 +30,7 @@ __init__: Ini adalah fungsi khusus yang dijalankan saat kita membuat objek baru.
 
 2 **kedua**
 tambah_data: Fungsi ini digunakan untuk menambahkan data mahasiswa baru. Ia akan meminta input dari pengguna (nama, NIM, nilai) dan kemudian menyimpan data tersebut ke dalam daftar mahasiswa.
-
+![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/28251d09560fbd69b43fd304ea36b917503a5b66/393561751-d3ff80bd-b503-49ca-a7a9-e3b73ef68e10.png)
 3 **ketiga**
 tampilkan_data: Fungsi ini akan menampilkan semua data mahasiswa yang sudah tersimpan.
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/1b7ff3491b22b521a0a900acfee8cf951f61267b/393561563-ea3fb839-cf15-437c-aaf3-87df4667d21e.png)
