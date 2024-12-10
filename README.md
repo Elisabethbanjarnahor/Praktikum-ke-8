@@ -27,20 +27,32 @@ penggunaan class mahasiswa
 1 **pertama**
 __init__: Ini adalah fungsi khusus yang dijalankan saat kita membuat objek baru. Fungsi ini digunakan untuk menginisialisasi (memberi nilai awal) pada atribut-atribut objek.
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/70b13b0773a208e75a42d698cc4a51511f462dd4/393561224-bb33f7eb-67fa-45f7-89b3-d11394820d07.png)
+
+
 2 **kedua**
 tambah_data: Fungsi ini digunakan untuk menambahkan data mahasiswa baru. Ia akan meminta input dari pengguna (nama, NIM, nilai) dan kemudian menyimpan data tersebut ke dalam daftar mahasiswa.
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/28251d09560fbd69b43fd304ea36b917503a5b66/393561751-d3ff80bd-b503-49ca-a7a9-e3b73ef68e10.png)
+
+
 3 **ketiga**
 tampilkan_data: Fungsi ini akan menampilkan semua data mahasiswa yang sudah tersimpan.
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/1b7ff3491b22b521a0a900acfee8cf951f61267b/393561563-ea3fb839-cf15-437c-aaf3-87df4667d21e.png)
+
+
 4 **keempat**
 hapus_data: Fungsi ini akan menghapus data mahasiswa berdasarkan NIM yang diberikan.
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/5a5b7dbba05c526782b2563f0b9aef790d24c025/393561821-5625562f-c942-4655-afa8-820ea4d2f0e1.png)
+
+
 5 ** kelima**
 ubah_data: Fungsi ini akan mengubah data mahasiswa berdasarkan NIM yang diberikan. Pengguna bisa memilih data mana yang ingin diubah (nilai tugas, UTS, atau UAS).
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/f66b6b6e29ba0d9517142533062485d84f8cefa2/393561766-cde4e49a-bed6-4530-9ccf-8d8015f6b36c.png)
-Bagian Utama Program
 
+6 **cari**
+Fungsi mencari dan menampilkan data mahasiswa berdasarka NIM
+
+
+Bagian Utama Program
 data_mahasiswa = Mahasiswa(...): Di sini kita membuat objek data_mahasiswa dari kelas Mahasiswa.
 data_mahasiswa.daftar_mahasiswa = []: Kita membuat list kosong untuk menyimpan data mahasiswa.
 while True:: Ini adalah loop yang akan terus berjalan sampai pengguna memilih untuk keluar.
