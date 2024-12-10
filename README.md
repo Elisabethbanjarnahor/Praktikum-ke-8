@@ -53,11 +53,7 @@ Fungsi mencari dan menampilkan data mahasiswa berdasarka NIM
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/4494ba6002916bd00a637f864fbe88c4e1c5a064/393561829-5cef06d8-9e9e-4023-b1d9-caa9e7770a3f.png)
 
 
-7 **menu utama**
-
-
-
-8 **hasil** 
+7 **hasil** 
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/abca2bee65c90c1494a7fc56a4cf52092ca6d3eb/393561298-ea53213e-0496-45a5-b278-070d33e9b324.png)
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/ab58b0943184ee1f45aec80b46c87917dbbd32f7/393561907-31f09554-180c-4b53-8e54-830c5e996615.png)
 ![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/5a301de66810917b254c27d7d66b2fb312394d54/393561902-1675d320-1521-4647-9b02-b9c8e300bd48.png)
