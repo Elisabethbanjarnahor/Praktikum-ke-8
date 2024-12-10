@@ -33,7 +33,7 @@ tambah_data: Fungsi ini digunakan untuk menambahkan data mahasiswa baru. Ia akan
 
 3 **ketiga**
 tampilkan_data: Fungsi ini akan menampilkan semua data mahasiswa yang sudah tersimpan.
-
+![](https://github.com/Elisabethbanjarnahor/Praktikum-ke-8/blob/1b7ff3491b22b521a0a900acfee8cf951f61267b/393561563-ea3fb839-cf15-437c-aaf3-87df4667d21e.png)
 4 **keempat**
 hapus_data: Fungsi ini akan menghapus data mahasiswa berdasarkan NIM yang diberikan.
 
